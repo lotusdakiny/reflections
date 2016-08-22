@@ -1,0 +1,37 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    $diff -u file_old file_new
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I can see chenges I made and I can easily back to my old version, if I do not like changes 
+    and I can compare two versions to find bugs and differencies 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    cons: I can forget to save
+    pros: Only I can know logical sence to make a commit	
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because most of projects consist of more than 1 file and some chenges can affect more then 1 file
+    than it is very useful to see all stane of all files in the project in one commit
+
+How can you use the commands git log and git diff to view the history of files?
+
+    $ git log //history
+    $ git diff file_old file_new
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I can easily find in which version I did mistake
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try ro work with Sunshine app and with my own project and with Jorge
