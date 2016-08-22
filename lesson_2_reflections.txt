@@ -2,3 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 	
 	Git creates .git file 
 
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+	staginf area is a buffer between directory and repository. It allows to add and delete
+	filws in it and thinking about it before add it to commit
