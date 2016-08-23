@@ -7,3 +7,35 @@ What value do you think it offers?
 
 	staginf area is a buffer between directory and repository. It allows to add and delete
 	filws in it and thinking about it before add it to commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	I can compare files in my repository and files in staging area and also 
+	I can compare files in staging area with files in last commit
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+
+	If I want to try some changes, but I am not sure that I really want to apply this 
+	changes in my progect
+
+How do the diagrams help you visualize the branch structure?
+
+	It is easy to see my version-control project structure
+
+What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+
+	We get one branch
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	this is very good tool because not everytime it obviously what to do with code
+
+
+
+
+
+
+
+	
